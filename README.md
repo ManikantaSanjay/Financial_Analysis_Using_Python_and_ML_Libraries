@@ -34,16 +34,20 @@
 * Mastering feature engineering and data cleaning strategies for machine learning and data science applications.
 
 ## Hands-On Projects:
-### :one:  Data Analysis and Visualization of Stock Data :
-#### Dataset: 👇
+#### Datasets Used: 👇
 https://drive.google.com/file/d/10KwseRQO8Qne7YXS6OLAgDSJ9codqPyq/view?usp=sharing🔗 
-#### Libraries:
+
+#### Libraries Used:
 * numpy
 * pandas
 * matplotlib
 * seaborn
 * scipy
 * plotly
+
+### :one:  Data Analysis and Visualization of Stock Data :
+
+
 #### Tasks Performed:
 Task 1 - IMPORT DATASET AND LIBRARIES
 
@@ -61,3 +65,27 @@ Task 7 - PLOTTING THE HISTOGRAM FOR DAILY RETURNS
 
 #### Link to Collab Notebook: 👇
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Stocks_Data_Analysis_and_Visualization.ipynb 🔗
+
+### 2️⃣ Portfolio Assets Allocation and Statistical Data Analysis of Stock Data :
+
+
+
+#### Tasks Performed:
+Task 1 - IMPORT LIBRARIES & DATASETS AND PERFORM DATA VISUALIZATION
+
+Task 2 - UNDERSTANDING THE CONCEPT OF ASSET ALLOCATION
+
+Task 3 - PERFORMING RANDOM ASSET ALLOCATION AND CALCULATE PORTFOLIO DAILY RETURN
+
+Task 4 - PORTFOLIO ALLOCATION - DAILY RETURN/WORTH CALCULATION (FUNCTION)
+
+Task 5 - PERFORMING PORTFOLIO DATA VISUALIZATION
+
+Task 6 - UNDERSTANDING PORTFOLIO STATISTICAL METRICS (CUMMULATIVE RETURN, AVERAGE DAILY RETURN, AND SHARPE RATIO)
+
+Task 7 - CALCULATING PORTFOLIO STATISTICAL METRICS (CUMMULATIVE RETURN, AVERAGE DAILY RETURN, AND SHARPE RATIO)
+
+#### Link to Collab Notebook: 👇
+https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Portfolio_Assets_Allocation_and_Statistical_Data_Analysis.ipynb :link:
+
+
