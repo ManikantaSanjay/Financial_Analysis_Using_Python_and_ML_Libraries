@@ -1,6 +1,6 @@
 # Financial_Analysis_Using_Python_and_ML_Libraries
 ## Description:
-* This series of collab notebooks deals with Financial Analysis using Python and Machine Libraries.
+* This series of collab notebooks deals with Financial Analysis using Python and Machine Learning Libraries.
 * This repository has been created as part of my Udemy Course learning "Python & Machine Learning for Financial Analysis" by Dr.Ryan Ahmed.
 * The notebook files are some of the hands-on projects designed to harness the power of Data science and AI to optimize business processes, maximize revenue, reduce costs.
 
