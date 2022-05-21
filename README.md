@@ -1,10 +1,12 @@
 # Financial_Analysis_Using_Python_and_ML_Libraries
-## Description:
+## Description
 * This series of collab notebooks deals with Financial Analysis using Python and Machine Learning Libraries.
 * This repository has been created as part of my Udemy Course learning "Python & Machine Learning for Financial Analysis" by Dr.Ryan Ahmed.
 * The notebook files are some of the hands-on projects designed to harness the power of Data science and AI to optimize business processes, maximize revenue, reduce costs.
 
-## Key Learnings of the Course: 
+### Link to Course on [Udemy](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/)
+
+## Key Learnings of the Course 
 * Mastering Python 3 programming fundamentals for Data Science and Machine Learning with focus on Finance.
 
 * Understanding how to leverage the power of Python to apply key financial concepts such as calculating daily portfolio returns, risk and Sharpe ratio.
@@ -33,11 +35,7 @@
 
 * Mastering feature engineering and data cleaning strategies for machine learning and data science applications.
 
-## Hands-On Projects:
-#### Datasets Used: 👇
-https://drive.google.com/file/d/10KwseRQO8Qne7YXS6OLAgDSJ9codqPyq/view?usp=sharing🔗 
-
-#### Libraries Used:
+## 💻 Built With
 * numpy
 * pandas
 * matplotlib
@@ -45,10 +43,16 @@ https://drive.google.com/file/d/10KwseRQO8Qne7YXS6OLAgDSJ9codqPyq/view?usp=shari
 * scipy
 * plotly
 
-### :one:  Data Analysis and Visualization of Stock Data :
+## Hands-On Projects
+#### Datasets Used 👇
+https://drive.google.com/file/d/10KwseRQO8Qne7YXS6OLAgDSJ9codqPyq/view?usp=sharing🔗 
 
 
-#### Tasks Performed:
+
+### :one:  Data Analysis and Visualization of Stock Data 
+
+
+#### 🧐 Tasks Performed
 Task 1 - Importing Dataset and Libraries
 
 Task 2 - Performing Exploratory Data Analysis and Visualization
@@ -64,14 +68,14 @@ Task 6 - Calculating the Correlations Between Daily Returns
 Task 7 - Plotting the Histogram for Daily Returns
 
 
-#### Link to Collab Notebook: 👇
+#### Collab Notebook Link ⏬
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Stocks_Data_Analysis_and_Visualization.ipynb 🔗
 
-### 2️⃣ Portfolio Assets Allocation and Statistical Data Analysis of Stock Data :
+### 2️⃣ Portfolio Assets Allocation and Statistical Data Analysis of Stock Data 
 
 
 
-#### Tasks Performed:
+#### 🧐 Tasks Performed
 Task 1 - Import Libraries & Datasets and Perform Data Visualization
 
 Task 2 - Understanding the Concept of Asset Allocation
@@ -87,7 +91,10 @@ Task 6 - Understanding Portfolio Statistical Metrics (Cumulative Return, Average
 Task 7 - Calculating Portfolio Statistical Metrics (Cumulative Return, Average Daily Return, And Sharpe Ratio)
 
 
-#### Link to Collab Notebook: 👇
+#### Collab Notebook Link ⏬
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Portfolio_Assets_Allocation_and_Statistical_Data_Analysis.ipynb :link:
 
+## 🙇 Special Thanks
+
+#### Dr. Ryan Ahmed for the amazing coursework. [Udemy](https://www.udemy.com/user/ryan-ahmed/)
 
