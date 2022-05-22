@@ -96,5 +96,5 @@ https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Librar
 
 ## 🙇 Special Thanks
 
-#### Dr. Ryan Ahmed for the amazing coursework. [Udemy](https://www.udemy.com/user/ryan-ahmed/)
+### Dr. Ryan Ahmed for the amazing coursework. [Udemy](https://www.udemy.com/user/ryan-ahmed/)
 
