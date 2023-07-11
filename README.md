@@ -6,7 +6,7 @@
 
 #### Link to Course on [Udemy](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/)
 
-## :bulb: Key Learnings of the Course 
+## :bulb: Key Learnings 
 * Mastering Python 3 programming fundamentals for Data Science and Machine Learning with focus on Finance.
 
 * Understanding how to leverage the power of Python to apply key financial concepts such as calculating daily portfolio returns, risk and Sharpe ratio.
