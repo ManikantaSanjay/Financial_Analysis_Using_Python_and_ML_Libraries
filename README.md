@@ -4,7 +4,7 @@
 * This repository has been created as part of my Udemy Course learning "Python & Machine Learning for Financial Analysis" by Dr.Ryan Ahmed.
 * The notebook files are some of the hands-on projects designed to harness the power of Data science and AI to optimize business processes, maximize revenue, reduce costs.
 
-#### Link to Course on [Udemy](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/)
+#### Link to Course ➡️ [Udemy](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/)
 
 ## :bulb: Key Learnings 
 * Mastering Python 3 programming fundamentals for Data Science and Machine Learning with focus on Finance.
@@ -36,61 +36,25 @@
 * Mastering feature engineering and data cleaning strategies for machine learning and data science applications.
 
 ## 💻 Libraries Used
-* numpy
-* pandas
-* matplotlib
-* seaborn
-* scipy
-* plotly
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ## :sunglasses: Projects
-#### Datasets Used 👇
+#### Dataset 👇
 https://drive.google.com/file/d/10KwseRQO8Qne7YXS6OLAgDSJ9codqPyq/view?usp=sharing🔗 
 
 
 
 ### :one:  Data Analysis and Visualization of Stock Data 
-
-
-#### 🧐 Tasks Performed
-Task 1 - Importing Dataset and Libraries
-
-Task 2 - Performing Exploratory Data Analysis and Visualization
-
-Task 3 - Performing Interactive Data Visualization
-
-Task 4 - Calculating Individual Stocks Daily Returns
-
-Task 5 - Calculating Multiple Stocks Daily Returns
-
-Task 6 - Calculating the Correlations Between Daily Returns
-
-Task 7 - Plotting the Histogram for Daily Returns
-
-
-#### Collab Notebook Link ⏬
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Stocks_Data_Analysis_and_Visualization.ipynb 🔗
 
 ### 2️⃣ Portfolio Assets Allocation and Statistical Data Analysis of Stock Data 
-
-#### 🧐 Tasks Performed
-Task 1 - Import Libraries & Datasets and Perform Data Visualization
-
-Task 2 - Understanding the Concept of Asset Allocation
-
-Task 3 - Performing Random Asset Allocation and Calculate Portfolio Daily Return
-
-Task 4 - Portfolio Allocation - Daily Return/Worth Calculation (Function)
-
-Task 5 - Performing Portfolio Data Visualization
-
-Task 6 - Understanding Portfolio Statistical Metrics (Cumulative Return, Average Daily Return, And Sharpe Ratio)
-
-Task 7 - Calculating Portfolio Statistical Metrics (Cumulative Return, Average Daily Return, And Sharpe Ratio)
-
-
-#### Collab Notebook Link ⏬
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Portfolio_Assets_Allocation_and_Statistical_Data_Analysis.ipynb :link:
+
+### 3️⃣ Capital Asset Pricing Model (CAPM)
+https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Capital_Asset_Pricing_Model_(CAPM).ipynb 🔗
 
 ## 🙇 Special Thanks
 
