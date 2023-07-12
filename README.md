@@ -7,33 +7,12 @@
 #### Link to Course ➡️ [Udemy](https://www.udemy.com/course/ml-and-python-in-finance-real-cases-and-practical-solutions/)
 
 ## :bulb: Key Learnings 
-* Mastering Python 3 programming fundamentals for Data Science and Machine Learning with focus on Finance.
-
-* Understanding how to leverage the power of Python to apply key financial concepts such as calculating daily portfolio returns, risk and Sharpe ratio.
-
-* Understanding the theory and intuition behind Capital Asset Pricing Model (CAPM)
-
-* Understanding how to use Jupyter Notebooks for developing, presenting and sharing Data Science projects.
-
-* Learning how to use key Python Libraries such as NumPy for scientific computing, Pandas for Data Analysis, Matplotlib for data plotting/visualization, and Seaborn for statistical plots.
-
-* Mastering SciKit-Learn library to build, train and tune machine learning models using real-world datasets.
-
-* Applying machine and deep learning models to solve real-world problems in the banking and finance sectors such as stock prices prediction, security news sentiment analysis, credit card fraud detection, bank customer segmentation, and loan default prediction.
-
-* Understanding the theory and intuition behind several machine learning algorithms for regression tasks (simple/multiple/polynomial), classification and clustering (K-Means).
-
-* Assessing the performance of trained machine learning regression models using various KPI (Key Performance indicators) such as Mean Absolute Error, Mean Squared Error, and Root Mean Squared Error intuition, R-Squared intuition, and Adjusted R-Squared.
-
-* Assessing the performance of trained machine learning classifiers using various KPIs such as accuracy, precision, recall, and F1-score.
-
-* Understanding the underlying theory, intuition and mathematics behind Artificial Neural Networks (ANNs), Recurrent Neural Networks (RNNs) and Long Short Term Memory Networks (LSTM).
-
-* Training ANNs using back propagation and gradient descent algorithms.
-
-* Optimizing ANNs hyper parameters such as number of hidden layers and neurons to enhance network performance.
-
-* Mastering feature engineering and data cleaning strategies for machine learning and data science applications.
+* Applied Python 3 fundamentals in Data Science and Machine Learning, with a focus on Finance.
+* Leveraged Python for financial computations such as portfolio returns, risk and Sharpe ratio calculations.
+* Built, trained, and tuned Machine Learning models with SciKit-Learn on real-world datasets, including application in banking and finance sectors for tasks such as stock price prediction, fraud detection, and customer segmentation.
+* Gained insights into various Machine Learning algorithms for regression, classification and clustering tasks, and learned how to assess their performance using appropriate KPIs.
+* Explored the theory and application of Artificial Neural Networks (ANNs), Recurrent Neural Networks (RNNs), and Long Short Term Memory Networks (LSTM), and learned to optimize ANNs' hyperparameters for improved performance.
+* Developed strong skills in feature engineering and data cleaning for Machine Learning and Data Science applications.
 
 ## 💻 Libraries Used
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -41,10 +20,13 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ## :sunglasses: Projects
-#### Dataset 👇
+### 📖 Datasets Used
 https://drive.google.com/file/d/10KwseRQO8Qne7YXS6OLAgDSJ9codqPyq/view?usp=sharing🔗 
 
+https://drive.google.com/file/d/1OLwQTbt3HvT8YaKNy2wlYeYBzpnoy09Y/view?usp=sharing 🔗
 
 
 ### :one:  Data Analysis and Visualization of Stock Data 
@@ -56,6 +38,8 @@ https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Librar
 ### 3️⃣ Capital Asset Pricing Model (CAPM)
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Capital_Asset_Pricing_Model_(CAPM).ipynb 🔗
 
+### 4️⃣ Stock Price Prediction Using Ridge Regression model and LSTMs
+https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Stocks_Data_Analysis_and_Visualization.ipynb 🔗
 ## 🙇 Special Thanks
 
 ### Dr. Ryan Ahmed for the amazing coursework. 
