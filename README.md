@@ -39,7 +39,7 @@ https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Librar
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Capital_Asset_Pricing_Model_(CAPM).ipynb 🔗
 
 ### 4️⃣ Stock Price Prediction Using Ridge Regression model and LSTMs
-https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Stocks_Data_Analysis_and_Visualization.ipynb 🔗
+https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Stock_Price_Predictions_Using_Ridge_regression_%26_LSTM.ipynb 🔗
 ## 🙇 Special Thanks
 
 ### Dr. Ryan Ahmed for the amazing coursework. 
