@@ -28,6 +28,8 @@ https://drive.google.com/file/d/10KwseRQO8Qne7YXS6OLAgDSJ9codqPyq/view?usp=shari
 
 https://drive.google.com/file/d/1OLwQTbt3HvT8YaKNy2wlYeYBzpnoy09Y/view?usp=sharing 🔗
 
+https://drive.google.com/file/d/1lPZZpxOQ-Hv3690VscbgAmUrXyFVhQhA/view?usp=sharing 🔗
+
 
 ### :one:  Data Analysis and Visualization of Stock Data 
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Stocks_Data_Analysis_and_Visualization.ipynb 🔗
@@ -35,11 +37,14 @@ https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Librar
 ### 2️⃣ Portfolio Assets Allocation and Statistical Data Analysis of Stock Data 
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Portfolio_Assets_Allocation_and_Statistical_Data_Analysis.ipynb :link:
 
-### 3️⃣ Capital Asset Pricing Model (CAPM)
+### 3️⃣ Capital Asset Pricing Model (CAPM) of Stocks
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Capital_Asset_Pricing_Model_(CAPM).ipynb 🔗
 
-### 4️⃣ Stock Price Prediction Using Ridge Regression model and LSTMs
+### 4️⃣ Stock Price Prediction Using Ridge Regression Model and LSTMs
 https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Stock_Price_Predictions_Using_Ridge_regression_%26_LSTM.ipynb 🔗
+
+### 5️⃣ Sentiment Analysis of Twitter Data for Company Stocks using Deep Neural Networks and LSTMs
+https://github.com/ManikantaSanjay/Financial_Analysis_Using_Python_and_ML_Libraries/blob/main/Sentiment_Analysis_from_Tweets.ipynb 🔗
 ## 🙇 Special Thanks
 
 ### Dr. Ryan Ahmed for the amazing coursework. 
